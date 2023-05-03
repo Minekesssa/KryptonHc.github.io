@@ -1,0 +1,277 @@
+body
+{
+	/* background was used from same pack 2 */
+	font-family: 'Open Sans', sans-serif;
+	background-image: url("img/10.png");
+	color: #ffffff;
+	margin: 0px;
+}
+
+a
+{
+	color: #ffffff;
+	text-decoration: none;
+	
+}
+
+
+
+#wszystko
+{
+	margin-top: 15px;
+	width: 1600px;
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+
+}
+
+
+
+#napis
+{
+	width: 100%;
+	text-align: center;
+	height: 60px;
+	background-color: #232626;
+	text-align: center;
+	font-size: 40px;
+	border: 2px solid #eccb1e;
+	border-radius: 10px;
+	
+}
+	
+#logos
+{
+	margin-top: 15px;
+	margin-bottom:15px;
+		width:	100%;
+		height: 410px ;
+		text-align: center;
+
+}
+
+
+.logo
+{	
+	width: 450px;
+	height:275px;
+	text-align: center; 
+	float: left;
+}
+
+.zapraszamy
+{
+	text-align: center;
+	width: 33.33%;
+	float: left;
+	
+}
+
+
+
+#wybieraniehead
+{
+	border-radius: 10px;
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+	width: 1400px;
+	height: 84px;
+	background-color: #232626;
+	border: 7px solid #06a8aa;
+	font-size: 25px;
+}
+	
+.Wybieranie1
+{
+	
+	width: 220px;
+	height: 50px;
+	margin: 5px;
+	margin-left: 3px;
+	float: left;
+	
+	text-align: center;
+	padding: 10px 0px 10px 0px;
+	background-color: #232626;
+	border: 2px solid #000;
+	display: inline-block;
+}
+
+.Wybieranie2
+{
+	width: 220px;
+	height: 50px;
+	margin: 5px;
+	float: left;
+	text-align: center;
+	padding: 10px 0px 10px 0px;
+	background-color: #232626;
+	border: 2px solid #000;
+	
+	display: inline-block;
+}
+
+.Wybieranie3
+{
+	width: 220px;
+	height: 50px;
+	margin: 5px;
+	float: left;
+	text-align: center;
+	padding: 10px 0px 10px 0px;
+	background-color: #232626;
+	border: 2px solid #000;
+	
+	display: inline-block;
+}
+
+.Wybieranie4
+{
+	width: 220px;
+	height: 50px;
+	margin: 5px;
+	float: left;
+	text-align: center;
+	padding: 10px 0px 10px 0px;
+	background-color: #232626;
+	border: 2px solid #000;
+	
+	display: inline-block;
+}
+.Wybieranie5
+{
+	width: 220px;
+	height: 50px;
+	margin: 5px;
+	float: left;
+	text-align: center;
+	padding: 10px 0px 10px 0px;
+	background-color: #232626;
+	border: 2px solid #000;
+	
+	display: inline-block;
+}
+.Wybieranie6
+{
+	width: 220px;
+	height: 50px;
+	margin: 5px;
+	margin-right: 3px;
+	float: left;
+	text-align: center;
+	padding: 10px 0px 10px 0px;
+	background-color: #232626;
+	border: 2px solid #000;
+	
+	display: inline-block;
+}
+
+
+
+
+
+
+#container
+{
+	float: left;
+	text-align: center;
+	margin-top: 20px;
+	width: 1500px;
+	margin-left: auto;
+	margin-right: auto;
+}
+.centre
+{
+	font-size: 22px;
+	width: 70%;
+	border-radius:20px;
+	border: 5px #5F9BD1 solid;
+	text-align: center;
+	float: left;
+	margin-top: 30px;
+	background-color: #232626;
+	display: inline-block;
+
+}
+.boki
+{
+	width: 15%;
+	height: 10px;
+	float: left;	
+}
+
+
+
+.przerywnik
+{
+	clear: both;
+	width: 100%;
+	height: 30px;
+	
+}
+
+
+
+#footer
+{	
+	font-size: 40px;
+	width: 100%;
+	clear: both;
+	background-color: #171717;
+	height: 600px;
+	margin: 0px;
+	border-top: 2px solid #06a8aa ;
+	
+}
+
+
+.gif
+{
+	text-align: center;
+	clear: both;
+	width: 100%;
+	height: auto;
+	margin-right:auto;
+	margin-left: auto;
+}
+
+
+.logo2
+{
+	
+	float: left;
+	margin-top: 0px;
+	margin-left: 790px;
+	
+}
+
+
+.napis2
+{
+	font-size: 20px;
+	float: left;
+	width: 200px;
+	height: 100px;
+	margin-top: 210px;
+	margin-left: 20px;
+}
+
+
+.Wlasciciele
+{
+	font-size: 25px;
+	margin-top: 85px;
+	float: left;
+}
+
+.copy
+{
+	clear: both;
+	width: 200px;
+	height: 10px;
+	font-size: 10px;
+	margin-left: 500px;
+	margin-top: 10px;
+}
