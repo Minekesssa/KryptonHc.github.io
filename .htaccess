@@ -5,7 +5,7 @@ Deny from all
 </FilesMatch>
 
 RewriteEngine on
-RewriteRule Strona Główna 🌍KryptonHc.html
+RewriteRule Strona Główna index.html
 RewriteRule Sociale Sociale.html
 RewriteRule Changelog changelog.html
 RewriteRule Administracja Administracja.html
